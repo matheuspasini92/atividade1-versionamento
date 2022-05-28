@@ -2,7 +2,13 @@
 Repositório para atividade 1 de Versionamento Senai
 fazendo um comentário para o arquivo da atividade 1 de versionamento do Senai;
 
+
 Passo a passo de comandos pro git e github:  
+
+atualizando README.md na trunk master
+
+Passo a passo de comandos pro git e github:
+
 ____________________________________________________________________
 
 Antes de tudo, já cria o teu perfil do github e cria um token, salva num .txt na tua desktop porque é uma sequência alfa numérica enorme, já que tu vai 
@@ -76,8 +82,8 @@ ramo novo, adicionando, "commitando", empurrando, puxando ou clonando do
 remoto para o local
 29) depois, se quiser voltar pro trunk dá o comando git checkout nome-da-trunk - ALERTA: não colocar o -b, pois a trunk não será 
 criada, estamos apenas retornando para o tronco principal. Se for criar um branch novo, daí sim coloca o -b no comando!!!
-30) Se quiser, tu pode juntar, ou MESCLAR, duas branchs. Se tu está em uma das branchs criadas e deseja juntar com outra branch
-criada (lembre-se, estamos falando de branchs, não de trunk), usar o comando git merge nome-da-branch-que-quer-juntar-com-a-atual
+30) Se quiser, tu pode juntar, ou MESCLAR, duas branchs ou uma branch com a trunk. Se tu está em uma das branchs criadas e deseja juntar com outra branch
+criada usar o comando git merge nome-da-branch-que-quer-juntar-com-a-atual
 31) Vai dar uma treta e aparecer conflitos, pois alteramos os mesmos arquivos, porém em branchs diferentes. Então, nesses casos,
 devemos apenas informar qual das duas atualizações queremos manter. Então, basta aceitar as duas alterações indo nos arquivos que
 foram editados e retirando os conflitos (sinal de igualdade e comparação de maior e menor: >>>, <<<, ===). Deleta esses bugs e salva
