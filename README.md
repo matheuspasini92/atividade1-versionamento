@@ -51,9 +51,7 @@ pra ter esse link, já sabe, vai no perfil do github do usuário > repositórios
 
 Seguindo num fluxograma, seria mais ou menos assim, até agora:
 
-repositório de trabalho ----git add .----> staging area ----git commit----> local.git ----git push----> repositório remoto
-        / \                                                                                                     \ /
-         |____________________________________________git pull___________________________________________________|
+repositório local ----git add .----> staging area ----git commit----> local.git ----git push----> repositório remoto ----git pull----> repositório local
 
 ****************************************************************************************************************************
 
