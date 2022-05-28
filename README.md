@@ -2,7 +2,7 @@
 Repositório para atividade 1 de Versionamento Senai
 fazendo um comentário para o arquivo da atividade 1 de versionamento do Senai;
 
-Passo a passo de comandos pro git e github:
+Passo a passo de comandos pro git e github:  
 ____________________________________________________________________
 
 Antes de tudo, já cria o teu perfil do github e cria um token, salva num .txt na tua desktop porque é uma sequência alfa numérica enorme, já que tu vai 
